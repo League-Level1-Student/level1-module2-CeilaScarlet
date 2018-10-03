@@ -37,6 +37,7 @@ public class PixelParty {
 	
 	private boolean isRainbow = false;
 	
+	
 	public PixelParty() {
 		img = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
 	}
